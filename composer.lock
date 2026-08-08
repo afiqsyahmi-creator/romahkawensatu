@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "cakephp/authentication",
-            "version": "4.2.0",
+            "version": "4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/authentication.git",
-                "reference": "d4d7804c88151d98d7ae914fa0abe1b9b569df74"
+                "reference": "ad018852ebc0c2594894c5d820d4296e5357097c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/authentication/zipball/d4d7804c88151d98d7ae914fa0abe1b9b569df74",
-                "reference": "d4d7804c88151d98d7ae914fa0abe1b9b569df74",
+                "url": "https://api.github.com/repos/cakephp/authentication/zipball/ad018852ebc0c2594894c5d820d4296e5357097c",
+                "reference": "ad018852ebc0c2594894c5d820d4296e5357097c",
                 "shasum": ""
             },
             "require": {
@@ -73,20 +73,20 @@
                 "issues": "https://github.com/cakephp/authentication/issues",
                 "source": "https://github.com/cakephp/authentication"
             },
-            "time": "2026-06-21T10:30:06+00:00"
+            "time": "2026-07-08T03:44:13+00:00"
         },
         {
             "name": "cakephp/cakephp",
-            "version": "5.2.13",
+            "version": "5.2.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "199f0246ad497977e03f280a018b3fbebdc41071"
+                "reference": "d1e4a9327c6c0f389ac27ac1c4fb79a9446bdf41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/199f0246ad497977e03f280a018b3fbebdc41071",
-                "reference": "199f0246ad497977e03f280a018b3fbebdc41071",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/d1e4a9327c6c0f389ac27ac1c4fb79a9446bdf41",
+                "reference": "d1e4a9327c6c0f389ac27ac1c4fb79a9446bdf41",
                 "shasum": ""
             },
             "require": {
@@ -194,7 +194,7 @@
                 "issues": "https://github.com/cakephp/cakephp/issues",
                 "source": "https://github.com/cakephp/cakephp"
             },
-            "time": "2026-05-23T16:33:40+00:00"
+            "time": "2026-07-16T04:03:16+00:00"
         },
         {
             "name": "cakephp/chronos",
@@ -368,16 +368,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.5.12",
+            "version": "1.5.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "00a2f4201641d5c53f7fc0195e6c8d9fcc321a78"
+                "reference": "c008272789979f709f7fcb32c2ecf1d2db5e84e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/00a2f4201641d5c53f7fc0195e6c8d9fcc321a78",
-                "reference": "00a2f4201641d5c53f7fc0195e6c8d9fcc321a78",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/c008272789979f709f7fcb32c2ecf1d2db5e84e5",
+                "reference": "c008272789979f709f7fcb32c2ecf1d2db5e84e5",
                 "shasum": ""
             },
             "require": {
@@ -424,7 +424,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.5.12"
+                "source": "https://github.com/composer/ca-bundle/tree/1.5.13"
             },
             "funding": [
                 {
@@ -436,7 +436,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-19T11:26:22+00:00"
+            "time": "2026-07-18T12:35:13+00:00"
         },
         {
             "name": "laminas/laminas-diactoros",
@@ -6174,5 +6174,5 @@
         "php": ">=8.1"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
